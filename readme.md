@@ -1,4 +1,4 @@
-# Project Name
+workify
 
 ## Description
 workify is a job managemnt rest api service leveraging microservice archietecture and relying on docker for containarization. The services interact asynchronously through rabbitmq and all are services are registered in a eureka server.
